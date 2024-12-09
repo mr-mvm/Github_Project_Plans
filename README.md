@@ -1,5 +1,5 @@
 # Github_Project_Plans
-### Aerospace Standards and Protocols:
+## Aerospace Standards and Protocols:
 #### AeroProtocolParser (For parsing aerospace communication protocols like MIL-STD-1553 or ARINC)
 #### SkyComms (For a project dealing with aerospace communication standards)
 #### ProtocolPilot (A project focusing on implementing or testing aerospace protocols)
